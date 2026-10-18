@@ -1,2 +1,4 @@
     Checking rust-chess v0.1.0 (/Users/sunsudhagar/Elam/rust-chess)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.26s
+error: could not compile `rust-chess` (bin "rust-chess" test) due to 4 previous errors; 2 warnings emitted
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `rust-chess` (bin "rust-chess") due to 4 previous errors; 2 warnings emitted
